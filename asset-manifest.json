@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/free-films-uk-beta/static/css/main.2abec3b5.css",
-    "main.js": "/free-films-uk-beta/static/js/main.b6d67cd4.js",
+    "main.css": "/free-films-uk-beta/static/css/main.4a3785c6.css",
+    "main.js": "/free-films-uk-beta/static/js/main.796f75b2.js",
     "static/js/787.ef6cb600.chunk.js": "/free-films-uk-beta/static/js/787.ef6cb600.chunk.js",
     "index.html": "/free-films-uk-beta/index.html",
-    "main.2abec3b5.css.map": "/free-films-uk-beta/static/css/main.2abec3b5.css.map",
-    "main.b6d67cd4.js.map": "/free-films-uk-beta/static/js/main.b6d67cd4.js.map",
+    "main.4a3785c6.css.map": "/free-films-uk-beta/static/css/main.4a3785c6.css.map",
+    "main.796f75b2.js.map": "/free-films-uk-beta/static/js/main.796f75b2.js.map",
     "787.ef6cb600.chunk.js.map": "/free-films-uk-beta/static/js/787.ef6cb600.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2abec3b5.css",
-    "static/js/main.b6d67cd4.js"
+    "static/css/main.4a3785c6.css",
+    "static/js/main.796f75b2.js"
   ]
 }
